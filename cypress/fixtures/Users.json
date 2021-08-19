@@ -1,0 +1,27 @@
+[
+  {
+    "userType": "valid",
+    "email": "test11@mailsac.com",
+    "password": "Test@1234"
+  },
+  {
+    "userType": "valid",
+    "email": "test2@mailsac.com",
+    "password": "Test@1234"
+  },
+  {
+    "userType": "Invalid",
+    "email": "dummy@mailsac.com",
+    "password": "dummyPassword"
+  },
+  {
+    "userType": "Invalid",
+    "email": "invalid@mailsac.com",
+    "password": "invalid"
+  },
+  {
+    "userType": "valid",
+    "email": "test3@mailsac.com",
+    "password": "Test@1234"
+  }
+]

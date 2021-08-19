@@ -1,0 +1,42 @@
+[
+    {
+        "email": "test19@mailsac.com",
+        "firstName": "Nayyer",
+        "lastName" : "Shahbaz",
+        "password" : "Test@1234",
+        "date" : "18",
+        "month" : "February",
+        "year" : "2016",
+        "addressFirstName" : "Nayyer",
+        "addressLastName" : "Shahbaz",
+        "company" : "10 Pearls",
+        "address" : "8614 Westwood Center Dr, Ste 540",
+        "city" : "Washington Dc",
+        "zip" : "22182",
+        "Country" : "United States",
+        "state" : "Virginia",
+        "phone" : "(703) 935-1919",
+        "mobile" : "(333) 115-1919",
+        "addressAlias" : "My Address 1"
+    },
+    {
+        "email": "test20@mailsac.com",
+        "firstName": "Test",
+        "lastName" : "User",
+        "password" : "Test@1234",
+        "date" : "18",
+        "month" : "February",
+        "year" : "2016",
+        "addressFirstName" : "Test",
+        "addressLastName" : "User",
+        "company" : "10 Pearls",
+        "address" : "8614 Westwood Center Dr, Ste 540",
+        "city" : "Washington Dc",
+        "zip" : "22182",
+        "Country" : "United States",
+        "state" : "Virginia",
+        "phone" : "(703) 935-1919",
+        "mobile" : "(333) 115-1919",
+        "addressAlias" : "My Address 1"
+    }
+]
