@@ -32,8 +32,6 @@ Structure
 * **plugins:-**  Plugins enable you to tap into the Node process running outside of the browser. Its created by default with the project
 * **support:-**  The support folder is a great place to put reusable behavior such as custom commands or global overrides that you want to be applied and available to all your spec files.
 
-![alt tag](https://ibb.co/1f2pdmW).
-
 Installation
 ============
 ```bash
