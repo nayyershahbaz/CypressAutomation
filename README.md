@@ -11,7 +11,7 @@ Table of contents
 <!--ts-->
    * [Overview](#overview)
    * [Structure](#structure)
-   * [Installation](#installation)
+   * [Execution](#execution)
 <!--te-->
 
 Overview
@@ -32,17 +32,30 @@ Structure
 * **plugins:-**  Plugins enable you to tap into the Node process running outside of the browser. Its created by default with the project
 * **support:-**  The support folder is a great place to put reusable behavior such as custom commands or global overrides that you want to be applied and available to all your spec files.
 
-Installation
-============
-```bash
-$ git clone https://github.com/nayyershahbaz/cypress
-$ cd cypress
-```
+![Folder Structure](https://i.postimg.cc/L60TqJgH/Project-Structure.png)
 
-Open the project in Visual Studio Code and run the following command in terminal
+Execution
+==========
+In order to execute the project, 
+* Open **Visual Studio Code** and click **Source Control** option from left menu.
+* Click the **Clone Repository** button and enter *https://github.com/nayyershahbaz/CypressAutomation.git*  then hit the enter key
+* Specify any directory on your system for Repository location i.e. /Users/nayyershahbaz/Documents/GitProjects and click the **Select Repository Location** button
+* From Bottom-Right of screen, click the Open button
+* Click **View** Menu and select **Terminal** menu option
+* Enter following command and press Enter key
+ 
 ```bash
 $ npm run cypress:open
 ```
 
+If FireFox is configured over system, it will appear as default browser (as specified during checkin). Simply click the **HomePage.spec.js** link under AutomationPractice_Spec folder and it will start the execution.
 
+![Project Execution](https://i.postimg.cc/dtmkQRd2/Screenshot-2021-08-20-at-5-44-09-AM.png)
+
+## Given below is the preview of project execution
+
+[![Demo CountPages alpha](https://i.postimg.cc/sg3ry79Z/Screenshot-2021-08-20-at-5-58-06-AM.png)](https://streamable.com/kz79sc)
+
+
+Happy Testing ! :star_struck:
 
